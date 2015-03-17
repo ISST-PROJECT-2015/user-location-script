@@ -8,10 +8,10 @@ Simple JavaScript file to locate from which country access your website
 <ol>
 	<li>Download <code>userLocation.js</code> and save it in your <code>lib</code> directory</li>
 
-	<li>Include this script tags in your website head tag</li>
+	<li>Include this SCRIPTS in your website HEAD tag</li>
 	<pre>
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js" type="text/javascript"></script>
-    	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" type="text/javascript"></script>
+		&lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js" type="text/javascript"/&gt;
+    	&lt;script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" type="text/javascript"/&gt;
 	</pre>
 
 	<li>Also include <code>userLocation.js</code> file</li>
