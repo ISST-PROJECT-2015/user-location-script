@@ -16,7 +16,7 @@ Simple JavaScript file to locate from which country access your website
 
 	<li>Also include <code>userLocation.js</code> file</li>
 
-	<li>Append a new element with <code>id = 'ajaxResponse'</code> to you HTML</li>
+	<li>Append a new element with <code>id = 'ajaxResponse'</code> to your HTML</li>
 	<p>The result of the ajax request will be loaded inside that element</p>
 	
 </ol>
